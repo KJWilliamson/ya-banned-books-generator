@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#random {
+  outline: none;
+  padding-top: 5px;
+  text-decoration: none;
+  opacity: 0.9;
+  background-color: white;
+  color: pink;
+  border: thin solid pink;
+  height: 40px;
+  width: 100px;
+  border-radius: 10px;
+  transition: 0.5s;
+}
+#random:hover {
+  background-color: pink;
+  color: white;
+  border: thin solid white;
+  opacity: 0.8;
+}
+
+div {
+    padding: 10px;
+}
+
+img {
+    height: 500px;
+    width: 400px;
+}
+

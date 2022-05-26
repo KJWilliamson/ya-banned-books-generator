@@ -1,0 +1,2 @@
+# ya-banned-books-generator
+

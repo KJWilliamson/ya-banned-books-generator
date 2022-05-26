@@ -104,7 +104,7 @@ function randomCover() {
     { img:"images/vampire.jpeg",
      text :"Lissa Dragomir is a Moroi princess: a mortal vampire <br>with a rare gift for harnessing the earth's magic. <br>She must be protected at all times from Strigoi; <br>the fiercest vampires—the ones who never die. The <br>powerful blend of human and vampire blood that flows <br>through Rose Hathaway, Lissa's best friend, makes her a dhampir.<br> Rose is dedicated to a dangerous life of protecting <br>Lissa from the Strigoi, who are hell-bent on <br>making Lissa one of them."},
     { img:"images/killers.jpeg",
-     text :"Jasper 'Jazz' Dent is a likable teenager. A charmer, one might say. But he's also the son of the world's most infamous serial killer, and for Dear Old Dad, Take Your Son to Work Day was year-round. Jazz has witnessed crime scenes the way cops wish they could—from the criminal's point of view."},
+     text :"Jasper 'Jazz' Dent is a likable teenager. A charmer,<br> one might say. But he's also the son of <br>the world's most infamous serial killer, and for <br>Dear Old Dad, Take Your Son to Work Day <br>was year-round. Jazz has witnessed crime scenes the <br>way cops wish they could—from the criminal's <br>point of view."},
     // { img:"",
     //  text :""},
     // { img:"",

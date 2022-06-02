@@ -1,5 +1,6 @@
 # ya-banned-books-generator
-# HTML, CSS, and Javscript.
+
+HTML, CSS, and Javscript.
 
 Fun little project built for my godchildren
 

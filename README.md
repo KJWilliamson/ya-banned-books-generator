@@ -1,8 +1,6 @@
-# ya-banned-books-generator
+## YA banned books generator built with HTML, CSS, and Javscript.
 
-HTML, CSS, and Javscript.
-
-Fun little project built for my godchildren
+* Fun little project built for my godchildren
 
 https://ya-banned-books.netlify.app/
 
